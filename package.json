@@ -1,6 +1,6 @@
 {
   "name": "ayushrj_currency_converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "currency_converter",
   "main": "main.js",
   "type": "module",
@@ -17,5 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
